@@ -14,4 +14,5 @@ Finished projects:
 - Portfolio website (using Three.js) (file name: threeJSProject)
 - JS calculator (file name: calculator)
 - Panning image gallery (file name: panningGallery)
+
 All finished project code can be found at https://github.com/BananenLurker/codingMoment.
