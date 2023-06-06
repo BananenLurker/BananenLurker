@@ -1,5 +1,3 @@
-== inactive due to moving house ==
-
 Get in contact with me: https://daanvanderputten.nl/
 
 Currently working on:
