@@ -1,5 +1,3 @@
-Get in contact with me: https://daanvanderputten.nl/
-
 Currently working on:
 - Graphic Vector Calculator
 - 3D Pacman remake (inspired by Code Bullet, using C# in Unity)
