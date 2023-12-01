@@ -1,10 +1,10 @@
 Currently working on:
-- Graphic Vector Calculator
-- 3D Pacman remake (inspired by Code Bullet, using C# in Unity)
+- Computer Science project: Trivia game in C#
 
 Future Projects:
-- To-Do list (developing JS skills, learning PHP)
 - Conway's Game of Life
+- Graphic Vector Calculator
+- 3D Pacman remake 
 
 Finished projects:
 - Portfolio website using Three.js - file name: threeJSProject
